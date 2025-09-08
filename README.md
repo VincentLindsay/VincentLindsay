@@ -4,6 +4,9 @@
 
 <p align="left">👨‍🎓 Studying at the University of Texas at San Antonio<br>☁ Passionate about Network and Cloud Security</p>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincent-lindsay-275538351/) 
+
 ###
 
 <h2 align="left">💻Tech Stack:</h2>
