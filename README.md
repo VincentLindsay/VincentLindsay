@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-%23232F3E.svg?logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-%23232F3E.svg?logo=cisco&logoColor=white" />
+
 
   
 </div>
