@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Studying at the University of Texas at San Antonio<br>☁ Passionate about Security Operations</p>
+<p align="left">👨‍🎓 Studying at the University of Texas at San Antonio<br>☁ Passionate about Security Operations and Malware Analysis.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lindsay-275538351/) 
