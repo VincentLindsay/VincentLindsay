@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Vincent, a 4th-year cybersecurity student at UTSA.
+
+I am currently building a cloud-based homelab, and an on-premsis homelab using tools such as Kibana
+
+I am passionate about security operations, and malware analysis
 <!--
 **VincentLindsay/VincentLindsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
