@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Vincent, a 4th-year cybersecurity student at UTSA.<br>
 
-I am currently building a cloud-based home lab, and an on-premises home lab.
+I am currently building a Simulated Phishing Detection and Network Monitoring Lab Using Kali, Windows 10 Enterprise, Suricata, and Splunk
 
 I am passionate about security operations, and malware analysis
 
@@ -13,5 +13,5 @@ I am passionate about security operations, and malware analysis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VincentLindsay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VincentLindsay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLindsay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
