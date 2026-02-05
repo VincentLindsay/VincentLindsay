@@ -1,7 +1,9 @@
 ## Hi! 
 I'm Vincent, a 4th-year cybersecurity student at UTSA.<br>
 
-I am currently building a Simulated Phishing Detection and Network Monitoring Lab Using Kali, Windows 10 Enterprise, Suricata, and Splunk
+I currently building an adversary simulation and detection lab using a Kali Linux and a Windows 10 Enterprise machine. The lab simulates attacker behavior such as network reconnaissance, while using tools such as Sysmon and Splunk to monitor, detect, and perform analysis of the resulting activity.
+
+
 
 I am passionate about security operations, and defending assets to the best of my ability
 
