@@ -16,8 +16,6 @@ Below are my Socials, feel free to connect with me:
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VincentLindsay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VincentLindsay&theme=dark&hide_border=false)<br/>
+
 
 
