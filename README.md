@@ -1,7 +1,7 @@
 ## Hi! 
-I'm Vincent, a 4th-year cybersecurity student at UTSA.<br>
+I'm Vincent, a cybersecurity student at UTSA.<br>
 
-I currently building an adversary simulation and detection lab using a Kali Linux and a Windows 10 Enterprise machine. The lab simulates attacker behavior such as network reconnaissance, while using tools such as Sysmon and Splunk to monitor, detect, and perform analysis of the resulting activity.
+I currently building a simulated SOC environment with Active Directory components. The lab includes an Active Directory domain with several workstations, and a dedicated Ubuntu Server hosting the Elastic Stack for the SIEM
 
 
 
@@ -9,19 +9,9 @@ I am passionate about security operations, and defending assets to the best of m
 
 Below are my Socials, feel free to connect with me: 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-lindsay-275538351) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lindsay/)
 [![Handshake](https://img.shields.io/badge/Handshake-green)](https://app.joinhandshake.com/profiles/vincent-lindsay)
-
-
-
-
-
-# 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![Splunk](https://custom-icon-badges.demolab.com/badge/Splunk-00A000?logo=splunk&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@vincent-lindsay)
 
 
 
