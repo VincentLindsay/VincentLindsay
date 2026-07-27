@@ -3,7 +3,8 @@ Hi! I'm Vincent, a cybersecurity graduate at UTSA.
 
 My security analysis repository is a collection of projects that feature DFIR, EDR, SOC, and network security projects. This portfolio includes projects that utilize Splunk, and Elastic. This portfolio may also contain red-team based projects, and labs on platforms such as CyberDefenders, and TryHackMe.
 
-Check it out here: Security Analysis [Portfolio](https://github.com/VincentLindsay/Security-Analysis-Portfolio)
+Check it out here: Security Analysis Portfolio: https://github.com/VincentLindsay/Security-Analysis-Portfolio
+Also check out my Help-Desk portfolio: https://github.com/VincentLindsay/Help-Desk-Portfolio
 
 I am passionate about security operations, and defending assets to the best of my ability
 
