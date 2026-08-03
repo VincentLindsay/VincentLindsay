@@ -10,7 +10,7 @@ The goal of my repository to be showcase a library of projects that I have compl
 
 I am passionate about security operations, and defending assets to the best of my ability
 
-Direct Link: https://github.com/VincentLindsay/IT-and-Cybersecurity-Porfolio
+Direct Link: https://github.com/VincentLindsay/IT-and-Cybersecurity-Portfolio
 
 # Tools
 
